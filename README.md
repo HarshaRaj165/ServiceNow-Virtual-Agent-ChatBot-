@@ -118,5 +118,6 @@ This project showcases the design, configuration, and customization of a **Virtu
 
 ## 📸 Screenshots
 
+>![image alt](https://github.com/HarshaRaj165/ServiceNow-Virtual-Agent-ChatBot-/blob/db32d9644619c20928f9c0624f6463f824c7285b/VA.png)
 >![image alt](https://github.com/HarshaRaj165/ServiceNow-Virtual-Agent-ChatBot-/blob/d5df6407aa5300fa1518cd4534a68909d3acd5be/ChatBot.png)
->![image alt]()
+
